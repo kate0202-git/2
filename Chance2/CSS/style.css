@@ -1,0 +1,175 @@
+* {
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.body {
+    font-family: Montserrat;
+    background-color: #f5f7fa;;
+    padding-left: 20px;   
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+
+
+}
+.bodyall {
+    background-color: white;
+    max-width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+.contact  {
+color: #ffffff;
+margin-left: 40px;
+margin-right: 40px;
+margin-top: 57px;
+
+
+
+}
+.sprachen {
+margin-top: 54px;
+margin-left: 40px;
+margin-right: 40px;
+
+
+
+}
+.skills {
+    padding-top: 52px;
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 24px;
+
+}
+
+.maincontainer {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.kenntnisse-punkt {
+    line-height: 25px;
+    color: white;
+    
+}
+.class-sidebar {
+
+    background-color: #1e2939;
+    width: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+   
+}
+.photo {
+    width: 400px;
+}
+
+.main-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+
+}
+
+.contact-title {
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+color: white;
+margin-bottom: 20px;
+
+}
+
+.msg {
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+color: #656d77;
+line-height: 24px;
+
+}
+
+.kenntnisse {
+
+    color: #ff6b08;
+    margin-left: 15px;
+}
+
+.Profesion {
+font-size: 14px;
+font-weight: 700;
+line-height: 25px;
+margin-bottom: 23px;
+
+
+}
+
+.name {
+font-size: 45px;
+font-weight: 700;
+line-height: 89px;
+padding-bottom: 30px;
+
+}
+
+.responsiblefor {
+    margin-left: 17px;
+
+}
+
+
+.title {
+font-size: 22px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+padding-bottom: 15px;
+
+}
+
+.workplace {
+font-size: 16px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+margin-bottom: 15px;
+margin-top: 10px;
+
+}
+.workplacename {
+    color: #ff6b08;
+}
+.date {
+font-size: 12px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+color : #a2a2a2;
+}
+
+.responsibleblock {
+margin-top: 14px;
+color: #595959;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+margin-bottom: 30px;
+}
